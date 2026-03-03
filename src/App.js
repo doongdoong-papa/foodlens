@@ -1,6 +1,7 @@
 import { useState, useRef } from "react";
 
 const PASTEL_BG = "#F7F3EE";
+
 const GREEN = "#3D7A5A";
 const GREEN_LIGHT = "#E8F4EE";
 const ACCENT = "#F4A261";
